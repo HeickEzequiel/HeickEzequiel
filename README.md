@@ -13,6 +13,7 @@ Si crees que puedo aportar valor a tu proyecto o equipo de trabajo, no dudes en 
 - email: ezequielheick@gmail.com
 - linkedIn: https://www.linkedin.com/in/ezequielheick/
 - portfolio: https://portfolio-wheat-seven-30.vercel.app/#/
+- CV: https://docs.google.com/document/d/1Y2xDv2bYYKT7CjVTD-qQl9D75NhBtewW/edit
 <!---
 HeickEzequiel/HeickEzequiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
