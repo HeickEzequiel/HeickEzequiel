@@ -5,7 +5,8 @@ Soy una persona amante de los desafíos que le gusta estar en constante aprendiz
 
 Si crees que puedo aportar valor a tu proyecto o equipo de trabajo, no dudes en contactarme:
 - email: ezequielheick@gmail.com
-- linkedIn : https://www.linkedin.com/in/ezequielheick/
+- linkedIn: https://www.linkedin.com/in/ezequielheick/
+- portfolio: https://portfolio-wheat-seven-30.vercel.app/#/
 <!---
 HeickEzequiel/HeickEzequiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
