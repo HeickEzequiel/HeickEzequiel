@@ -10,7 +10,9 @@ Disfruto diseñando y desarrollando arquitecturas robustas, optimizando bases de
 Cada proyecto es una oportunidad de aprender y enfrentar nuevos retos. Me motiva la resolución de problemas complejos y la implementación de soluciones innovadoras. Además, estoy comprometido con las mejores prácticas de desarrollo, como el uso de control de versiones con Git y la implementación de metodologías ágiles para asegurar que los proyectos se entreguen a tiempo y con la más alta calidad.
 
 Si crees que puedo aportar valor a tu proyecto o equipo de trabajo, no dudes en contactarme:
+
 - email: ezequielheick@gmail.com
+- whatsapp: +54 11 34637208
 - linkedIn: https://www.linkedin.com/in/ezequielheick/
 - portfolio: https://portfolio-wheat-seven-30.vercel.app/#/
 - CV: https://docs.google.com/document/d/1Y2xDv2bYYKT7CjVTD-qQl9D75NhBtewW/edit
