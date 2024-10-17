@@ -1,4 +1,4 @@
-!(https://res.cloudinary.com/damoqjwmk/image/upload/v1729101482/portfolio/fondo.jpg)
+![](https://res.cloudinary.com/damoqjwmk/image/upload/v1729101482/portfolio/fondo.jpg)
 
 Hola! Bienvendio mi nombre es Ezequiel y te cuento que soy
 FullStack Developer, tengo experiencia practica en proyectos utilizando tecnologías como HTML, CSS, Javascript, ReactJs, Redux, NodeJs, Express, Sequelize, PostgreSQL, entre otras tecnologías que voy adquiriendo permanentemente.
